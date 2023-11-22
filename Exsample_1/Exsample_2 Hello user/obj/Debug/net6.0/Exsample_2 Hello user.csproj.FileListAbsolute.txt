@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\bin\Debug\net6.0\Exsample_2 Hello user.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\bin\Debug\net6.0\Exsample_2 Hello user.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\bin\Debug\net6.0\Exsample_2 Hello user.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\bin\Debug\net6.0\Exsample_2 Hello user.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\bin\Debug\net6.0\Exsample_2 Hello user.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\refint\Exsample_2 Hello user.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\Exsample_2 Hello user.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_2 Hello user\obj\Debug\net6.0\ref\Exsample_2 Hello user.dll

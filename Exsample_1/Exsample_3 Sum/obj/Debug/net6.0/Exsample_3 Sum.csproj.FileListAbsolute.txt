@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\bin\Debug\net6.0\Exsample_3 Sum.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\bin\Debug\net6.0\Exsample_3 Sum.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\bin\Debug\net6.0\Exsample_3 Sum.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\bin\Debug\net6.0\Exsample_3 Sum.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\bin\Debug\net6.0\Exsample_3 Sum.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\refint\Exsample_3 Sum.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\Exsample_3 Sum.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_3 Sum\obj\Debug\net6.0\ref\Exsample_3 Sum.dll
