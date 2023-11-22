@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\bin\Debug\net6.0\Exsample_5 Rand.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\bin\Debug\net6.0\Exsample_5 Rand.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\bin\Debug\net6.0\Exsample_5 Rand.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\bin\Debug\net6.0\Exsample_5 Rand.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\bin\Debug\net6.0\Exsample_5 Rand.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\refint\Exsample_5 Rand.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\Exsample_5 Rand.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_5 Rand\obj\Debug\net6.0\ref\Exsample_5 Rand.dll
