@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\bin\Debug\net6.0\Exsample_4 Div.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\bin\Debug\net6.0\Exsample_4 Div.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\bin\Debug\net6.0\Exsample_4 Div.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\bin\Debug\net6.0\Exsample_4 Div.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\bin\Debug\net6.0\Exsample_4 Div.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\refint\Exsample_4 Div.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\Exsample_4 Div.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_4 Div\obj\Debug\net6.0\ref\Exsample_4 Div.dll
