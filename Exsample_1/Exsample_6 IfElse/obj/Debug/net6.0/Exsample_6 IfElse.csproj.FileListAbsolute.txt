@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\bin\Debug\net6.0\Exsample_6 IfElse.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\bin\Debug\net6.0\Exsample_6 IfElse.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\bin\Debug\net6.0\Exsample_6 IfElse.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\bin\Debug\net6.0\Exsample_6 IfElse.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\bin\Debug\net6.0\Exsample_6 IfElse.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\refint\Exsample_6 IfElse.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\Exsample_6 IfElse.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Exsample_6 IfElse\obj\Debug\net6.0\ref\Exsample_6 IfElse.dll
