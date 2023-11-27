@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\bin\Debug\net6.0\Exercise_3.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\bin\Debug\net6.0\Exercise_3.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\bin\Debug\net6.0\Exercise_3.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\bin\Debug\net6.0\Exercise_3.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\bin\Debug\net6.0\Exercise_3.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\refint\Exercise_3.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\Exercise_3.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_3\obj\Debug\net6.0\ref\Exercise_3.dll
