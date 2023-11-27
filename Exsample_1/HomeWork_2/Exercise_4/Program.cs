@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 4. Напишите программу, которая принимает на вход
+//натуральное число N , а на выходе показывает его цифры через запятую
+
+
+Console.Write("Введите любое натуральное число: ");
+int number = int.Parse(Console.ReadLine()!);
+
+int i = 0;
+    while (i <= number)
+{
+
+
+    Console.Write($"{i},"); i++;
+}

@@ -5,6 +5,10 @@
 ﻿using System;
 class Program
 {
+    public Program()
+    {
+    }
+
     static void Main()
     {
         Console.WriteLine("Введите координаты точки (X и Y):");
