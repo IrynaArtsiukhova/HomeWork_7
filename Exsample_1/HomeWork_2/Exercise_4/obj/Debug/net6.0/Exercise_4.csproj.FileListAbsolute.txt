@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\bin\Debug\net6.0\Exercise_4.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\bin\Debug\net6.0\Exercise_4.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\bin\Debug\net6.0\Exercise_4.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\bin\Debug\net6.0\Exercise_4.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\bin\Debug\net6.0\Exercise_4.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\refint\Exercise_4.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\Exercise_4.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\HomeWork_2\Exercise_4\obj\Debug\net6.0\ref\Exercise_4.dll
