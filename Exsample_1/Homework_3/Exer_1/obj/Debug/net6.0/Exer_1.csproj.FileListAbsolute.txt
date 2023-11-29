@@ -1,0 +1,15 @@
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\bin\Debug\net6.0\Exer_1.exe
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\bin\Debug\net6.0\Exer_1.deps.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\bin\Debug\net6.0\Exer_1.runtimeconfig.json
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\bin\Debug\net6.0\Exer_1.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\bin\Debug\net6.0\Exer_1.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.csproj.AssemblyReference.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.AssemblyInfoInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.AssemblyInfo.cs
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\refint\Exer_1.dll
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.pdb
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\Exer_1.genruntimeconfig.cache
+C:\Users\vasil\Documents\Введение в программирование\С\Exsample_1\Homework_3\Exer_1\obj\Debug\net6.0\ref\Exer_1.dll
