@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj": {}
+    "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj": {
+    "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj",
+        "projectUniqueName": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj",
         "projectName": "Exsample_4 Div",
-        "projectPath": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj",
+        "projectPath": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\Exsample_4 Div.csproj",
         "packagesPath": "C:\\Users\\vasil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\obj\\",
+        "outputPath": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_4 Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vasil\\AppData\\Roaming\\NuGet\\NuGet.Config"

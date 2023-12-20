@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Homework_5\\Exer_5_1\\Exer_5_1.csproj",
+      "projectUniqueName": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Homework_5\\Exer_5_1\\Exer_5_1.csproj",
       "projectName": "Exer_5_1",
-      "projectPath": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Homework_5\\Exer_5_1\\Exer_5_1.csproj",
+      "projectPath": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Homework_5\\Exer_5_1\\Exer_5_1.csproj",
       "packagesPath": "C:\\Users\\vasil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Homework_5\\Exer_5_1\\obj\\",
+      "outputPath": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Homework_5\\Exer_5_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vasil\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_3 Sum\\Exsample_3 Sum.csproj",
+      "projectUniqueName": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_3 Sum\\Exsample_3 Sum.csproj",
       "projectName": "Exsample_3 Sum",
-      "projectPath": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_3 Sum\\Exsample_3 Sum.csproj",
+      "projectPath": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_3 Sum\\Exsample_3 Sum.csproj",
       "packagesPath": "C:\\Users\\vasil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vasil\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_3 Sum\\obj\\",
+      "outputPath": "C:\\Users\\vasil\\OneDrive\\Documents\\Введение в программирование\\С\\Exsample_1\\Exsample_3 Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vasil\\AppData\\Roaming\\NuGet\\NuGet.Config"
